@@ -43,15 +43,16 @@ Role-based authorization ensures that different users have appropriate access le
 ![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/8e5a4914-5443-4315-9ea3-22408e705384)
 
 ## Home Page
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/dc865832-22ff-4448-b806-5dd37f21d66e)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/84522912-a8d8-4958-8feb-8b6f0e4196b3)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/9af42574-ec15-44f1-9c0a-34c96a5b7dc5)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/5c65ecbe-9bd4-4ff8-86eb-0f58d8c3550f)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/d2bf4e88-1e0c-4f20-9f0f-9051599b6f47)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/e8f4d7bf-18b0-471b-b29f-340712cbed74)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/9e6905f7-daec-4165-bdbb-d3eb0844da14)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/7d764aa4-621a-4e8a-bd8a-ba8ec578f0ab)
-![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/891322db-4c8a-490f-9598-ffd9a1b6f453)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/35341981-ce84-4514-984b-ac019c06d56d)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/779c00e7-673e-4938-9875-4c228714c3fb)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/493c7f69-c5e6-4bdb-9d67-354e6cbacd7d)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/315ffb64-57fe-45f3-b7d9-1330e5d4078d)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/c16b6132-f5f1-4636-a9a7-89f252455e6b)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/af04cbba-763c-416a-961a-d9f0046a73f9)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/01ac0cd1-46f6-4574-888c-9f9d6dc31c2c)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/5f451458-990e-4e48-94a2-2061e9e12c97)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/0ee20d6d-8fe6-4737-945f-7f69306e659f)
+
 
 ## Film Details
 ![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/7933b48a-0ca7-4cc9-9ecd-07208e64755e)
