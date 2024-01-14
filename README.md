@@ -25,3 +25,6 @@ The user interface is designed using angular to be visually appealing, and user-
 
 # Role-Based Authorization
 Role-based authorization ensures that different users have appropriate access levels and permissions, for example: An admin can add or edit a movie but a viewer can't.
+
+# Screenshots
+## Login page
