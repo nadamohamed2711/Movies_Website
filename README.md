@@ -32,6 +32,7 @@ Role-based authorization ensures that different users have appropriate access le
 
 ## Login page
 ![2](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/a2554eb5-ecf5-406f-a52b-fd335f01a0d6)
+![image](https://github.com/nadamohamed2711/Movies_Website/assets/99842002/a07759ae-cdcc-45a4-bdc9-086bb4c352d5)
 
 ## Forget Password by Gmail
 
